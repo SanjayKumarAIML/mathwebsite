@@ -252,7 +252,7 @@ h1{
 ```
 ## OUTPUT:
 
-![MathCalc](./MATHCALC.png)
+![MathCalc](./MATHCALC1.png)
 
 ## Result:
 
