@@ -99,7 +99,7 @@ h1{
 <body>
     <div class="container">
         <div class="content">
-            <h1 class="text">Area of a Sphere</h1>
+            <h1 class="text">Area Of a Sphere</h1>
             <form>
                 <div class="formelement"><label for="radiusEdit">Radius (R):</label>
                     <input type="text" id="radiusEdit" value="0"/>
@@ -128,7 +128,7 @@ h1{
                 <div class="body"></div>
                 <div class="container">
                     <div class="content">
-                        <h1>Volume Of A Cone</h1>
+                        <h1>Volume Of a Cone</h1>
                         <form>
                             <div class=formelement>
                                 <lable for="aedit">Radius (R):</lable>
